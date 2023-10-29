@@ -1,0 +1,17 @@
+/* Login.css */
+.gradient-background {
+    background: url('https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-71105.jpg?w=1380&t=st=1698497736~exp=1698498336~hmac=2bfd288209f44c9ccdfd443c6dd0bdef37e42942feac1103fb0e56d785361a53');
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .container {
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  

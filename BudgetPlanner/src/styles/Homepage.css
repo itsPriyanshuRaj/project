@@ -1,0 +1,24 @@
+/* HomePage.css */
+.homepage {
+    background: url('https://img.freepik.com/free-vector/gradient-blur-pink-blue-abstract-background_53876-117324.jpg?w=996&t=st=1698496189~exp=1698496789~hmac=66de605f5afdd1eb6883e5d821cf5566c99ba18c148df0f92498b76e05947813');
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .custom-container {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
